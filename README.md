@@ -1,4 +1,4 @@
-<pre></pre>
+<pre>
 https://stackoverflow.com/questions/38656842/i-need-makefile-for-fdk-aac
 sudo apt-get install pkg-config autoconf automake libtool
 git clone https://github.com/mstorsjo/fdk-aac.git
